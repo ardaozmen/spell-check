@@ -1,0 +1,6 @@
+scenv/
+__pycache__/
+
+# ignore the data
+*.csv
+*.txt
